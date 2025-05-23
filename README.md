@@ -2,6 +2,14 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.13.
 
+## Setup
+
+1. Please make sure you are using Node version 22.x.x LTS.
+You can check your node version by running node -v in your terminal.
+If you are using a different version, you can install the LTS version by following the instructions (Please use the LTS version) here.
+2. Clone the repository and run npm install to install the dependencies.
+
+
 ## Development server
 
 To start a local development server, run:
