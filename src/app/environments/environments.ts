@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   url: 'https://api.openweathermap.org/data/2.5/weather',
   geo_url: 'https://api.openweathermap.org/geo/1.0/direct',
-  api_key: '411bbd9e0dfa5a4a9401e77f7150be7f',
+  api_key: ' ',
 };
 
 /*
