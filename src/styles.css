@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+.main {
+  background: center / cover no-repeat
+    url("./assets/bg-sunny.jpg");
+  min-height: 100vh;
+}
