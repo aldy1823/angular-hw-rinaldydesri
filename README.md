@@ -9,6 +9,9 @@ You can check your node version by running node -v in your terminal.
 If you are using a different version, you can install the LTS version by following the instructions (Please use the LTS version) here.
 2. Clone the repository and run npm install to install the dependencies.
 
+## Change api key openweathermap
+
+Open file src/app/environments/environments.ts then change api_key with your api key for access openweathermap api.
 
 ## Development server
 
@@ -43,10 +46,6 @@ ng build
 ```
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Change api key openweathermap
-
-Open file src/app/environments/environments.ts then change api_key with your api key for access openweathermap api.
 
 
 ## Running unit tests
